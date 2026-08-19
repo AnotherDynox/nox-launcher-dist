@@ -899,9 +899,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 678778,
+            "size": 678233,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxrogue-0.1.0.jar",
-            "MD5": "164135a46a82c344ad9a2c5358671aea"
+            "MD5": "e6f67bb5cfd41844bd97bc93bca4c7fe"
           }
         },
         {
@@ -1302,6 +1302,16 @@
             "size": 872937,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/zoomify-2.15.2+1.21.1.jar",
             "MD5": "e3beea86fba08bffe61ccad28df6c676"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 9841,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/options.txt",
+            "path": "options.txt"
           }
         }
       ]

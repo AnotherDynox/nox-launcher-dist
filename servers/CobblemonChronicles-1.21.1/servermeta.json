@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/NoxLauncherDist/nebula-root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Cobblemon Chronicles",
+    "description": "Servidor Cobblemon Chronicles -- Cobblemon, PokeRogue, Ranked y mas.",
+    "icon": "http://localhost:8080/nox-icon.png",
+    "address": "cobblemonchronicles.net",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}

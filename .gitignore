@@ -1,0 +1,6 @@
+# Herramienta local de Nebula, no forma parte de lo que se distribuye
+/schemas/
+/modpacks/
+
+# Mods que superan el limite de 100MB de GitHub -- se suben aparte como Release asset
+servers/CobblemonChronicles-1.21.1/fabricmods/required/Cobblemon-fabric-1.7.3+1.21.1.jar

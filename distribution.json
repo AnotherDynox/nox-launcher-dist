@@ -5,7 +5,7 @@
       "id": "CobblemonChronicles-1.21.1",
       "name": "Cobblemon Chronicles",
       "description": "Servidor Cobblemon Chronicles -- Cobblemon, PokeRogue, Ranked y mas.",
-      "icon": "http://localhost:8080/nox-icon.png",
+      "icon": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/assets/icon.png",
       "version": "1.0.0",
       "address": "cobblemonchronicles.net",
       "minecraftVersion": "1.21.1",

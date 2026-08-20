@@ -869,9 +869,9 @@
           "name": "NoxProtect",
           "type": "FabricMod",
           "artifact": {
-            "size": 193434,
+            "size": 194750,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxprotect-0.1.0.jar",
-            "MD5": "c2aacc44ad25fa08bb89c5f836f0cf26"
+            "MD5": "bec585f9c7d2d292b00f515861e94b14"
           }
         },
         {
@@ -929,9 +929,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 10364544,
+            "size": 10397080,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxtcg-0.1.0.jar",
-            "MD5": "11de35b7b88e6ac2da1b24a91cc6a015"
+            "MD5": "91d77226a3c2ee01020e1f34b2415b4f"
           }
         },
         {

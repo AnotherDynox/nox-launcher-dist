@@ -929,9 +929,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 1043315,
+            "size": 1043347,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxtcg-0.1.0.jar",
-            "MD5": "74733b3aeb01585e9eb69c9be8ac5bb7"
+            "MD5": "d96ecebabb06c77e0e0342ef92ba76b3"
           }
         },
         {

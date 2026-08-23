@@ -889,9 +889,9 @@
           "name": "NoxRanked",
           "type": "FabricMod",
           "artifact": {
-            "size": 1388327,
+            "size": 1394246,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxranked-0.1.0.jar",
-            "MD5": "40c516237a856840b157a523cfd24295"
+            "MD5": "386236e6f1d6b9aa429bfae530f4d6b7"
           }
         },
         {
@@ -929,9 +929,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 39550868,
+            "size": 39535556,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxtcg-0.1.0.jar",
-            "MD5": "4ef6aee140c717f7af43c25361e53a5c"
+            "MD5": "71b3bcbc2b70327a148940a8a4e1e4e1"
           }
         },
         {
@@ -1444,6 +1444,16 @@
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/%C2%A73Fresh%20%C2%A7bFlower%20Pots.zip",
             "MD5": "6bb29e4acb6e7cdc733ab7fa75a44531",
             "path": "resourcepacks/§3Fresh §bFlower Pots.zip"
+          }
+        },
+        {
+          "id": "com.noxgym:noxgym:0.1.0@jar",
+          "name": "NoxGym",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 37843,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxgym-0.1.0.jar",
+            "MD5": "0d7f77658b72f7c67506c7cd695d9958"
           }
         }
       ]

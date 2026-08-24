@@ -909,9 +909,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 693902,
+            "size": 694063,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxrogue-0.1.0.jar",
-            "MD5": "f887ec72168a2185c9813ab518c3571b"
+            "MD5": "6d4cfd03fb23ef17903bcb154aa10145"
           }
         },
         {

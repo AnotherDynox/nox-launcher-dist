@@ -909,9 +909,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 694640,
+            "size": 708031,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxrogue-0.1.0.jar",
-            "MD5": "0f9a0c9eed89c3a1f5428c75ea25f255"
+            "MD5": "4b047ac9447c07b4fc52b6e288b9daae"
           }
         },
         {
@@ -1049,9 +1049,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 19088704,
+            "size": 19092234,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/pokenav-0.1.0.jar",
-            "MD5": "02a7fecb59b7c3839fb9a31b99ff3cfd"
+            "MD5": "06337e7546e7cdc11b718724a29c9b14"
           }
         },
         {

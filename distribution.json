@@ -855,6 +855,16 @@
           }
         },
         {
+          "id": "com.noxcrates:noxcrates:0.1.0@jar",
+          "name": "NoxCrates",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20957,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxcrates-0.1.0.jar",
+            "MD5": "9c55d5d2ba4b00cacbaed7fb2958a94c"
+          }
+        },
+        {
           "id": "com.noxgym:noxgym:0.1.0@jar",
           "name": "NoxGym",
           "type": "FabricMod",

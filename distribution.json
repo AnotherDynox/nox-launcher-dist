@@ -909,9 +909,9 @@
           "name": "NoxRanked",
           "type": "FabricMod",
           "artifact": {
-            "size": 1438962,
+            "size": 1439925,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxranked-0.1.0.jar",
-            "MD5": "ab807c025374efd36d654553d23e4999"
+            "MD5": "a33992d41271ada6e7f7b453d7b2bac2"
           }
         },
         {

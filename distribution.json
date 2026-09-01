@@ -350,7 +350,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 135801550,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/Cobblemon-fabric-1.7.3+1.21.1.jar",
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
             "MD5": "1de64f280372ec94e4376976fb579d52"
           }
         },
@@ -919,9 +919,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 710427,
+            "size": 712868,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxrogue-0.1.0.jar",
-            "MD5": "c7d61f89e2322ed2b6df245225092ebe"
+            "MD5": "d0a004aff6769e751151068325b9cc05"
           }
         },
         {

@@ -588,10 +588,6 @@
           "id": "generated.fabricmod:immediatelyfast:1.6.11+1.21.1@jar",
           "name": "ImmediatelyFast",
           "type": "FabricMod",
-          "required": {
-            "value": false,
-            "def": true
-          },
           "artifact": {
             "size": 336763,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
@@ -1427,25 +1423,14 @@
           }
         },
         {
-          "id": "pokenavResourcePack27.zip",
-          "name": "pokenavResourcePack27.zip",
+          "id": "pokenavResourcePack28.zip",
+          "name": "pokenavResourcePack28.zip",
           "type": "File",
           "artifact": {
-            "size": 195369,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/pokenavResourcePack27.zip",
-            "MD5": "0c72597571ad3a6bc6648b73c62735e8",
-            "path": "resourcepacks/pokenavResourcePack27.zip"
-          }
-        },
-        {
-          "id": "minimal_test_pack.zip",
-          "name": "minimal_test_pack.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1955,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/minimal_test_pack.zip",
-            "MD5": "e5ecea0336a6b3b506dd7e502cb305cc",
-            "path": "resourcepacks/minimal_test_pack.zip"
+            "size": 195386,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/pokenavResourcePack28.zip",
+            "MD5": "e125a1e79d9d2d8eb83180f1431cfb6b",
+            "path": "resourcepacks/pokenavResourcePack28.zip"
           }
         },
         {

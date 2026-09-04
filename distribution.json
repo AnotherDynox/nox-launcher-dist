@@ -588,6 +588,10 @@
           "id": "generated.fabricmod:immediatelyfast:1.6.11+1.21.1@jar",
           "name": "ImmediatelyFast",
           "type": "FabricMod",
+          "required": {
+            "value": false,
+            "def": true
+          },
           "artifact": {
             "size": 336763,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",

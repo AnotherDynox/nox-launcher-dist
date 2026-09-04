@@ -1059,9 +1059,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 19162129,
+            "size": 19162412,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/pokenav-0.1.0.jar",
-            "MD5": "4a4780e9159ed8262c5ffb26655a6870"
+            "MD5": "608d4aa09265ce3fb450514c3a0fb74c"
           }
         },
         {

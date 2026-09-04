@@ -1438,6 +1438,17 @@
           }
         },
         {
+          "id": "minimal_test_pack.zip",
+          "name": "minimal_test_pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1955,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/minimal_test_pack.zip",
+            "MD5": "e5ecea0336a6b3b506dd7e502cb305cc",
+            "path": "resourcepacks/minimal_test_pack.zip"
+          }
+        },
+        {
           "id": "Theone's Eating Animation Pack v1.0.zip",
           "name": "Theone's Eating Animation Pack v1.0.zip",
           "type": "File",

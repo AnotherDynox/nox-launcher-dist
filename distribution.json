@@ -1423,14 +1423,14 @@
           }
         },
         {
-          "id": "pokenavResourcePack22.zip",
-          "name": "pokenavResourcePack22.zip",
+          "id": "pokenavResourcePack23.zip",
+          "name": "pokenavResourcePack23.zip",
           "type": "File",
           "artifact": {
-            "size": 182921,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/pokenavResourcePack22.zip",
-            "MD5": "8c7474cdc841ce395a8a9ab5779276f2",
-            "path": "resourcepacks/pokenavResourcePack22.zip"
+            "size": 190695,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/pokenavResourcePack23.zip",
+            "MD5": "b991f94c389ea51e82b447a52ab47eae",
+            "path": "resourcepacks/pokenavResourcePack23.zip"
           }
         },
         {

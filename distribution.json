@@ -1135,15 +1135,15 @@
           }
         },
         {
-          "id": "com.teamresourceful:resourcefullib:3.0.12@jar",
-          "name": "Resourceful Lib",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 485586,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
-            "MD5": "89dac4248b76747800fbc00fa063825e"
-          }
-        },
+  "id": "com.resourcefullib:resourcefullib:3.0.12@jar",
+  "name": "Resourceful Lib",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 485586,
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
+    "MD5": "89dac4248b76747800fbc00fa063825e"
+  }
+},
         {
           "id": "fuzs.resourcepackoverrides:resourcepackoverrides:21.1.0@jar",
           "name": "Resource Pack Overrides",

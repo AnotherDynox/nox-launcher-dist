@@ -305,15 +305,45 @@
           }
         },
         {
-          "id": "com.fyre:cobblecuisine:2.0.1@jar",
-          "name": "CobbleCuisine",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 683115,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/cobblecuisine-2.0.1-1.7-rc1.jar",
-            "MD5": "3d61b2fab71618ae9dabed911f2e0a63"
-          }
-        },
+  "id": "com.athena:athena:4.0.6@jar",
+  "name": "Athena",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 88425,
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1_21_1-4_0_6.jar",
+    "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
+  }
+},
+        {
+  "id": "com.chipped:chipped:4.0.2@jar",
+  "name": "Chipped",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 15016830,
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/chipped-fabric-1_21_1-4_0_2.jar",
+    "MD5": "c98271e7ba961e78e4a589fc53fa71a2"
+  }
+},
+        {
+  "id": "com.lithostitched:lithostitched:1.8.0+beta6@jar",
+  "name": "Lithostitched",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 970257,
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/lithostitched-1_8_0_beta6-fabric-21_1.jar",
+    "MD5": "35081d1e23ab374e8a07f7b26f80b689"
+  }
+},
+      {
+  "id": "com.resourcefullib:resourcefullib:3.0.12@jar",
+  "name": "Resourceful Lib",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 485586,
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1_21-3_0_12__1_.jar",
+    "MD5": "89dac4248b76747800fbc00fa063825e"
+  }
+},  
         {
           "id": "com.lunazstudios:cobblefurnies:1.2@jar",
           "name": "CobbleFurnies",

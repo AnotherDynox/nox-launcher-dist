@@ -155,15 +155,15 @@
           }
         },
         {
-          "id": "earth.terrarium.athena.impl:athena:4.0.6@jar",
-          "name": "Athena",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 88425,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1.21.1-4.0.6.jar",
-            "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
-          }
-        },
+  "id": "com.athena:athena:4.0.6@jar",
+  "name": "Athena",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 88425,
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1.21.1-4.0.6.jar",
+    "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
+  }
+},
         {
           "id": "generated.fabricmod:badoptimizations:2.4.1@jar",
           "name": "BadOptimizations",

@@ -320,7 +320,7 @@
   "type": "FabricMod",
   "artifact": {
     "size": 15016830,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/chipped-fabric-1_21_1-4_0_2.jar",
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/chipped-fabric-1.21.1-4.0.2.jar",
     "MD5": "c98271e7ba961e78e4a589fc53fa71a2"
   }
 },
@@ -330,7 +330,7 @@
   "type": "FabricMod",
   "artifact": {
     "size": 970257,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/lithostitched-1_8_0_beta6-fabric-21_1.jar",
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/lithostitched-1.8.0+beta6-fabric-21.1.jar",
     "MD5": "35081d1e23ab374e8a07f7b26f80b689"
   }
 },
@@ -340,10 +340,10 @@
   "type": "FabricMod",
   "artifact": {
     "size": 485586,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1_21-3_0_12__1_.jar",
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
     "MD5": "89dac4248b76747800fbc00fa063825e"
   }
-},  
+},
         {
           "id": "com.lunazstudios:cobblefurnies:1.2@jar",
           "name": "CobbleFurnies",

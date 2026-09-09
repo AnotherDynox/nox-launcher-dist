@@ -155,15 +155,15 @@
           }
         },
         {
-  "id": "com.athena:athena:4.0.6@jar",
-  "name": "Athena",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 88425,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1.21.1-4.0.6.jar",
-    "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
-  }
-},
+          "id": "com.athena:athena:4.0.6@jar",
+          "name": "Athena",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 88425,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1.21.1-4.0.6.jar",
+            "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
+          }
+        },
         {
           "id": "generated.fabricmod:badoptimizations:2.4.1@jar",
           "name": "BadOptimizations",
@@ -192,16 +192,6 @@
             "size": 837607,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/beautify-2.0.0+1.21.1.jar",
             "MD5": "eaf50ca33137846e0430aa8afc48a223"
-          }
-        },
-        {
-          "id": "com.joshiki.betterpokedexscanner:better_pokedex_scanner:1.0.0@jar",
-          "name": "Better Pokédex Scanner",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 350293,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/better-pokedex-scanner-1.0.0.jar",
-            "MD5": "bb097232f80b5a070dec10e16af7b088"
           }
         },
         {
@@ -255,13 +245,13 @@
           }
         },
         {
-          "id": "us.timinc.mc.cobblemon.capturexp:capture_xp:1.7.3-fabric-1.3.0@jar",
+          "id": "us.timinc.mc.cobblemon.capturexp:capture_xp:1.8.0-fabric-1.3.0@jar",
           "name": "Cobblemon Capture XP",
           "type": "FabricMod",
           "artifact": {
-            "size": 22848,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/capturexp-fabric-1.7.3-1.3.0.jar",
-            "MD5": "e6fc02948bb7b46b6554bc6df987e6f2"
+            "size": 23380,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/capturexp-fabric-1.8.0-1.3.0.jar",
+            "MD5": "d5ebea7a34439430fb52dfe8bb12e2c1"
           }
         },
         {
@@ -305,45 +295,45 @@
           }
         },
         {
-  "id": "com.athena:athena:4.0.6@jar",
-  "name": "Athena",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 88425,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1_21_1-4_0_6.jar",
-    "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
-  }
-},
+          "id": "com.athena:athena:4.0.6@jar",
+          "name": "Athena",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 88425,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1_21_1-4_0_6.jar",
+            "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
+          }
+        },
         {
-  "id": "com.chipped:chipped:4.0.2@jar",
-  "name": "Chipped",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 15016830,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/chipped-fabric-1.21.1-4.0.2.jar",
-    "MD5": "c98271e7ba961e78e4a589fc53fa71a2"
-  }
-},
+          "id": "com.chipped:chipped:4.0.2@jar",
+          "name": "Chipped",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15016830,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/chipped-fabric-1.21.1-4.0.2.jar",
+            "MD5": "c98271e7ba961e78e4a589fc53fa71a2"
+          }
+        },
         {
-  "id": "com.lithostitched:lithostitched:1.8.0+beta6@jar",
-  "name": "Lithostitched",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 970257,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/lithostitched-1.8.0+beta6-fabric-21.1.jar",
-    "MD5": "35081d1e23ab374e8a07f7b26f80b689"
-  }
-},
-      {
-  "id": "com.resourcefullib:resourcefullib:3.0.12@jar",
-  "name": "Resourceful Lib",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 485586,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
-    "MD5": "89dac4248b76747800fbc00fa063825e"
-  }
-},
+          "id": "com.lithostitched:lithostitched:1.8.0+beta6@jar",
+          "name": "Lithostitched",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 970257,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/lithostitched-1.8.0+beta6-fabric-21.1.jar",
+            "MD5": "35081d1e23ab374e8a07f7b26f80b689"
+          }
+        },
+        {
+          "id": "com.resourcefullib:resourcefullib:3.0.12@jar",
+          "name": "Resourceful Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 485586,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
+            "MD5": "89dac4248b76747800fbc00fa063825e"
+          }
+        },
         {
           "id": "com.lunazstudios:cobblefurnies:1.2@jar",
           "name": "CobbleFurnies",
@@ -380,7 +370,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 162358118,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/Cobblemon-fabric-1.8.0%2B1.21.1.jar",
             "MD5": "91f78e096f45659e744fd888370ea75b"
           }
         },
@@ -875,13 +865,13 @@
           }
         },
         {
-          "id": "noxcare.modid:noxcare-client:${version}@jar",
+          "id": "noxcare.modid:noxcare-client:1.0.0@jar",
           "name": "NoxCare (Cliente)",
           "type": "FabricMod",
           "artifact": {
             "size": 114409,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxcare-client-1.0.0.jar",
-            "MD5": " b6dac8454c3ecc5e41debbcbfcdcc57c"
+            "MD5": "b6dac8454c3ecc5e41debbcbfcdcc57c"
           }
         },
         {
@@ -1095,15 +1085,15 @@
           }
         },
         {
-  "id": "com.gitlab.srcmc:rctapi:0.15.2-beta-nox1@jar",
-  "name": "Radical Cobblemon Trainers API",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 234235,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/rctapi-fabric-1.21.1-0.15.2-beta-nox1.jar",
-    "MD5": "f68c47c124c23bd29fb397bc12d945d6"
-  }
-},
+          "id": "com.gitlab.srcmc:rctapi:0.15.2-beta-nox1@jar",
+          "name": "Radical Cobblemon Trainers API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 234235,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/rctapi-fabric-1.21.1-0.15.2-beta-nox1.jar",
+            "MD5": "f68c47c124c23bd29fb397bc12d945d6"
+          }
+        },
         {
           "id": "com.supermartijn642:rechiseled:1.2.4@jar",
           "name": "Rechiseled",
@@ -1135,15 +1125,15 @@
           }
         },
         {
-  "id": "com.resourcefullib:resourcefullib:3.0.12@jar",
-  "name": "Resourceful Lib",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 485586,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
-    "MD5": "89dac4248b76747800fbc00fa063825e"
-  }
-},
+          "id": "com.resourcefullib:resourcefullib:3.0.12@jar",
+          "name": "Resourceful Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 485586,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
+            "MD5": "89dac4248b76747800fbc00fa063825e"
+          }
+        },
         {
           "id": "fuzs.resourcepackoverrides:resourcepackoverrides:21.1.0@jar",
           "name": "Resource Pack Overrides",
@@ -1175,15 +1165,15 @@
           }
         },
         {
-  "id": "com.legendarymonuments:legendarymonuments:8.1-Love-for-All@jar",
-  "name": "Legendary Monuments",
-  "type": "FabricMod",
-  "artifact": {
-    "size": 16611506,
-    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
-    "MD5": "9149046c2ffb82dca713616ea4739fe1"
-  }
-},
+          "id": "com.legendarymonuments:legendarymonuments:8.1-Love-for-All@jar",
+          "name": "Legendary Monuments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 16611506,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
+            "MD5": "9149046c2ffb82dca713616ea4739fe1"
+          }
+        },
         {
           "id": "ca.spottedleaf.starlight:scalablelux:0.1.0.1+fabric.d0d58ab@jar",
           "name": "ScalableLux",
@@ -1275,13 +1265,13 @@
           }
         },
         {
-          "id": "us.timinc.mc.cobblemon.timcore:tim_core:1.7.3-fabric-1.32.0@jar",
+          "id": "us.timinc.mc.cobblemon.timcore:tim_core:1.8.0-fabric-1.32.0@jar",
           "name": "Tim Core",
           "type": "FabricMod",
           "artifact": {
-            "size": 304444,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/timcore-fabric-1.7.3-1.32.0.jar",
-            "MD5": "f206df5480d269c0c0fe27846acb1d89"
+            "size": 300493,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/timcore-fabric-1.8.0-1.32.0.jar",
+            "MD5": "ef752f8b0e861184f5471c9c46328c0b"
           }
         },
         {

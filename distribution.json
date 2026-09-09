@@ -1195,16 +1195,6 @@
           }
         },
         {
-          "id": "dragomordor.simpletms:simpletms:2.3.3@jar",
-          "name": "SimpleTMs",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 821382,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/SimpleTMs-fabric-2.3.3.jar",
-            "MD5": "9a9d474ca102e1d04fa89926fa837896"
-          }
-        },
-        {
           "id": "net.caffeinemc.mods:sodium:0.8.12+mc1.21.1@jar",
           "name": "Sodium",
           "type": "FabricMod",

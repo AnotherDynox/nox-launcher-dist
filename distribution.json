@@ -375,13 +375,13 @@
           }
         },
         {
-          "id": "com.cobblemon.mod:cobblemon:1.7.3+1.21.1@jar",
+          "id": "com.cobblemon.mod:cobblemon:1.8.0+1.21.1@jar",
           "name": "Cobblemon",
           "type": "FabricMod",
           "artifact": {
-            "size": 135801550,
+            "size": 162358118,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
-            "MD5": "1de64f280372ec94e4376976fb579d52"
+            "MD5": "91f78e096f45659e744fd888370ea75b"
           }
         },
         {
@@ -715,13 +715,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:mega_showdown:fabric-1.9.4+1.7.3+1.21.1-beta@jar",
+          "id": "generated.fabricmod:mega_showdown:fabric-1.0.2+1.8+1.21.1-release@jar",
           "name": "Mega_showdown",
           "type": "FabricMod",
           "artifact": {
-            "size": 19753803,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/mega_showdown-fabric-1.9.4+1.7.3+1.21.1-beta.jar",
-            "MD5": "d362e17b66ff11e6562d8fb862305c75"
+            "size": 19970594,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/mega_showdown-fabric-1.0.2+1.8+1.21.1-release.jar",
+            "MD5": "4d4523c494049106995b2ca9a9f875a1"
           }
         },
         {
@@ -879,9 +879,9 @@
           "name": "NoxCare (Cliente)",
           "type": "FabricMod",
           "artifact": {
-            "size": 114405,
+            "size": 114409,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxcare-client-1.0.0.jar",
-            "MD5": "88a75d8efad98245bdea3d117dc74958"
+            "MD5": " b6dac8454c3ecc5e41debbcbfcdcc57c"
           }
         },
         {
@@ -899,9 +899,9 @@
           "name": "NoxGym",
           "type": "FabricMod",
           "artifact": {
-            "size": 44725,
+            "size": 47063,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxgym-0.1.0.jar",
-            "MD5": "b7e92808af70c7858d11fcf7c20fc460"
+            "MD5": "b40b98d7d2ca651ed225df6fe12b8945"
           }
         },
         {
@@ -929,9 +929,9 @@
           "name": "NoxRaids",
           "type": "FabricMod",
           "artifact": {
-            "size": 354055,
+            "size": 353614,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxraids-0.1.0.jar",
-            "MD5": "4991813f1df575eda420e84ae2aeaf0b"
+            "MD5": "11408a6062b1ffc5eaf2ab8a8a6eb961"
           }
         },
         {
@@ -939,9 +939,9 @@
           "name": "NoxRanked",
           "type": "FabricMod",
           "artifact": {
-            "size": 2646001,
+            "size": 2646014,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxranked-0.1.0.jar",
-            "MD5": "fb8254e1b4013e93c6d30117e4fce847"
+            "MD5": "5b08bfcffc0e91d0bae601b79619040e"
           }
         },
         {
@@ -949,9 +949,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 712868,
+            "size": 712896,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxrogue-0.1.0.jar",
-            "MD5": "d0a004aff6769e751151068325b9cc05"
+            "MD5": "2f45deb02d3b93b7d064e4338bdba1ca"
           }
         },
         {

@@ -1095,15 +1095,15 @@
           }
         },
         {
-          "id": "com.gitlab.srcmc:rctapi:0.15.2-beta@jar",
-          "name": "Radical Cobblemon Trainers API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 234250,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/rctapi-fabric-1.21.1-0.15.2-beta.jar",
-            "MD5": "fe02b1985ce18f764f41d8e802d38035"
-          }
-        },
+  "id": "com.gitlab.srcmc:rctapi:0.15.2-beta-nox1@jar",
+  "name": "Radical Cobblemon Trainers API",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 234235,
+    "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/rctapi-fabric-1.21.1-0.15.2-beta-nox1.jar",
+    "MD5": "f68c47c124c23bd29fb397bc12d945d6"
+  }
+},
         {
           "id": "com.supermartijn642:rechiseled:1.2.4@jar",
           "name": "Rechiseled",

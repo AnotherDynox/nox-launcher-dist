@@ -879,9 +879,9 @@
           "name": "NoxGym",
           "type": "FabricMod",
           "artifact": {
-            "size": 47086,
+            "size": 56044,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxgym-0.1.0.jar",
-            "MD5": "cd9bba073d00091ca88cc9a9da940f0c"
+            "MD5": "4d16b6474b4a21dd603cdc5866c9a9d9"
           }
         },
         {
@@ -959,9 +959,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 143462655,
+            "size": 143474034,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxtcg-0.1.0.jar",
-            "MD5": "cf04ac81586e11322b1d714d0c03bb6b"
+            "MD5": "d6e2c7b8a8e5bb55106582592d9a73c6"
           }
         },
         {

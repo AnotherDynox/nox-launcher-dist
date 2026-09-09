@@ -295,16 +295,6 @@
           }
         },
         {
-          "id": "com.athena:athena:4.0.6@jar",
-          "name": "Athena",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 88425,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/athena-fabric-1_21_1-4_0_6.jar",
-            "MD5": "a549af3b3a32722ab81ff11d9f44f90b"
-          }
-        },
-        {
           "id": "com.chipped:chipped:4.0.2@jar",
           "name": "Chipped",
           "type": "FabricMod",
@@ -1122,16 +1112,6 @@
             "size": 8202318,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/repurposed_structures-7.5.21+1.21.1-fabric.jar",
             "MD5": "deb4b37a167bf3eedd2345573c832936"
-          }
-        },
-        {
-          "id": "com.resourcefullib:resourcefullib:3.0.12@jar",
-          "name": "Resourceful Lib",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 485586,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/resourcefullib-fabric-1.21-3.0.12.jar",
-            "MD5": "89dac4248b76747800fbc00fa063825e"
           }
         },
         {

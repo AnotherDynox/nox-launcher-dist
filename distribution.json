@@ -939,9 +939,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 712896,
+            "size": 713077,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxrogue-0.1.0.jar",
-            "MD5": "2f45deb02d3b93b7d064e4338bdba1ca"
+            "MD5": "115b6cbc79a688ff3967d886ad5dd537"
           }
         },
         {
@@ -1079,9 +1079,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 19185141,
+            "size": 19182521,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/pokenav-0.1.0.jar",
-            "MD5": "25d345ef7e8dafdfa054e4ceedcde4a2"
+            "MD5": "3a67c393466a35dfbda75ba099b3ac24"
           }
         },
         {
@@ -1192,6 +1192,16 @@
             "size": 79531,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/Searchables-fabric-1.21.1-1.0.2.jar",
             "MD5": "33d8f858261d757ef89144ac13013987"
+          }
+        },
+        {
+          "id": "dragomordor.simpletms:simpletms:2.3.3@jar",
+          "name": "SimpleTMs",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 821382,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/SimpleTMs-fabric-2.3.3.jar",
+            "MD5": "9a9d474ca102e1d04fa89926fa837896"
           }
         },
         {

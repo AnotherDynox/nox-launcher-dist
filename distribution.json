@@ -869,9 +869,9 @@
           "name": "NoxCare (Cliente)",
           "type": "FabricMod",
           "artifact": {
-            "size": 114409,
+            "size": 114483,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxcare-client-1.0.0.jar",
-            "MD5": "b6dac8454c3ecc5e41debbcbfcdcc57c"
+            "MD5": "aceb5bcd7592b9c231f88c0404b3148b"
           }
         },
         {
@@ -1079,9 +1079,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 19182521,
+            "size": 19186047,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/pokenav-0.1.0.jar",
-            "MD5": "3a67c393466a35dfbda75ba099b3ac24"
+            "MD5": "bb8dffa1e5c88a0bffe6132030d8d792"
           }
         },
         {

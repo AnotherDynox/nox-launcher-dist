@@ -879,9 +879,9 @@
           "name": "NoxGym",
           "type": "FabricMod",
           "artifact": {
-            "size": 61343,
+            "size": 76066133,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxgym-0.1.0.jar",
-            "MD5": "3e96eacf34425fd54b46e5eb19a8898f"
+            "MD5": "c1a4d44cc20c416a5613549695d51093"
           }
         },
         {

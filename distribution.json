@@ -879,9 +879,9 @@
           "name": "NoxGym",
           "type": "FabricMod",
           "artifact": {
-            "size": 76066133,
+            "size": 76069654,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxgym-0.1.0.jar",
-            "MD5": "c1a4d44cc20c416a5613549695d51093"
+            "MD5": "3188c66ca9112f763ffcfe1906891847"
           }
         },
         {

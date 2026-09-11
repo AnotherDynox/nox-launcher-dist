@@ -899,9 +899,9 @@
           "name": "NoxProtect",
           "type": "FabricMod",
           "artifact": {
-            "size": 210289,
+            "size": 210672,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxprotect-0.1.0.jar",
-            "MD5": "85b275459c13910671692a93e7f8ada6"
+            "MD5": "153f93d084e69fb18bb226137b3c2ba7"
           }
         },
         {

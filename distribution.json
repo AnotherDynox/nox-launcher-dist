@@ -929,9 +929,9 @@
           "name": "NoxRTP",
           "type": "FabricMod",
           "artifact": {
-            "size": 5923,
+            "size": 6450,
             "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/noxrtp-0.1.0.jar",
-            "MD5": "77c3f0b45681ca0695d00d3c6e9a0b3f"
+            "MD5": "445cb8ced2e62d3577a62f7a8d550768"
           }
         },
         {

@@ -665,16 +665,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:mr_lasers_fakemonpack:1.6.2@jar",
-          "name": "Laser's Fakemon Pack [Cobblemon]",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 26041782,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/lasers-fakemon-pack-1.6.2.jar",
-            "MD5": "bedf6daaa38d1cf1977d2c92158c4fa1"
-          }
-        },
-        {
           "id": "generated.fabricmod:libjf:3.17.3@jar",
           "name": "LibJF",
           "type": "FabricMod",

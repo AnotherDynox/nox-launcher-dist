@@ -1135,16 +1135,6 @@
           }
         },
         {
-          "id": "com.legendarymonuments:legendarymonuments:8.1-Love-for-All@jar",
-          "name": "Legendary Monuments",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 16611506,
-            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/fabricmods/required/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
-            "MD5": "9149046c2ffb82dca713616ea4739fe1"
-          }
-        },
-        {
           "id": "ca.spottedleaf.starlight:scalablelux:0.1.0.1+fabric.d0d58ab@jar",
           "name": "ScalableLux",
           "type": "FabricMod",

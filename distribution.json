@@ -1348,14 +1348,14 @@
           }
         },
         {
-          "id": "COBBLEVERSE-CCC.zip",
-          "name": "COBBLEVERSE-CCC.zip",
+          "id": "AllTheMons.R4.0.zip",
+          "name": "AllTheMons.R4.0.zip",
           "type": "File",
           "artifact": {
-            "size": 8536643,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/COBBLEVERSE-CCC.zip",
-            "MD5": "d25507c6e6f8a7181be46c3cd72d8c88",
-            "path": "resourcepacks/COBBLEVERSE-CCC.zip"
+            "size": 14658736,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/AllTheMons.R4.0.zip",
+            "MD5": "51d62232efd83b298128ba6c04e8a155",
+            "path": "resourcepacks/AllTheMons.R4.0.zip"
           }
         },
         {

@@ -869,9 +869,9 @@
           "name": "NoxGym",
           "type": "FabricMod",
           "artifact": {
-            "size": 76086215,
+            "size": 76087165,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxgym-0.1.0.jar",
-            "MD5": "9349dd35aa2e520ab56a24c012f3e321"
+            "MD5": "aec538f710eae76d102fe676af95a174"
           }
         },
         {
@@ -909,9 +909,9 @@
           "name": "NoxRanked",
           "type": "FabricMod",
           "artifact": {
-            "size": 2646014,
+            "size": 2650610,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxranked-0.1.0.jar",
-            "MD5": "5b08bfcffc0e91d0bae601b79619040e"
+            "MD5": "37130d8720b614d3a1dd0f6d5d26e1cf"
           }
         },
         {
@@ -919,9 +919,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 716287,
+            "size": 716382,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrogue-0.1.0.jar",
-            "MD5": "c2c6356bf8bb7965761025925570d23b"
+            "MD5": "766cfa5c803306c0252275f8c6ae927a"
           }
         },
         {
@@ -929,9 +929,9 @@
           "name": "NoxRTP",
           "type": "FabricMod",
           "artifact": {
-            "size": 6450,
+            "size": 6668,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrtp-0.1.0.jar",
-            "MD5": "445cb8ced2e62d3577a62f7a8d550768"
+            "MD5": "0bb72a6ce55a5d63217181a2fd225ada"
           }
         },
         {
@@ -1059,9 +1059,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 19875875,
+            "size": 19883888,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenav-0.1.0.jar",
-            "MD5": "df07e04420e9965c40eb5f98cb93d1a9"
+            "MD5": "c585a474b8fb65f027929b86c2bfa03b"
           }
         },
         {

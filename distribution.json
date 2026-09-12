@@ -1403,6 +1403,17 @@
           }
         },
         {
+          "id": "Maxi's-JM+CM_Pixel-U11.zip",
+          "name": "Maxi's-JM+CM_Pixel-U11.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2784083,
+            "url": "https://raw.githubusercontent.com/AnotherDynox/nox-launcher-dist/main/servers/CobblemonChronicles-1.21.1/files/resourcepacks/Maxi's-JM+CM_Pixel-U11.zip",
+            "MD5": "4e7e2f8e35882ebdcfed3cd2aec205c7",
+            "path": "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip"
+          }
+        },
+        {
           "id": "pokenavResourcePack36.zip",
           "name": "pokenavResourcePack36.zip",
           "type": "File",

@@ -929,9 +929,9 @@
           "name": "NoxRTP",
           "type": "FabricMod",
           "artifact": {
-            "size": 6668,
+            "size": 6660,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrtp-0.1.0.jar",
-            "MD5": "0bb72a6ce55a5d63217181a2fd225ada"
+            "MD5": "9a06474e3ec909b485cd2b610d4b77fb"
           }
         },
         {

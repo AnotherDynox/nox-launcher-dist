@@ -889,9 +889,9 @@
           "name": "NoxProtect",
           "type": "FabricMod",
           "artifact": {
-            "size": 210750,
+            "size": 210734,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxprotect-0.1.0.jar",
-            "MD5": "148cd96a5ff70696d0c2f4d5c22478e7"
+            "MD5": "6f538eac32320467b50cc5eb073cc1cb"
           }
         },
         {

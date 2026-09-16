@@ -879,9 +879,9 @@
           "name": "NoxPerf",
           "type": "FabricMod",
           "artifact": {
-            "size": 5362,
+            "size": 7352,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxperf-0.1.0.jar",
-            "MD5": "b49a58a2c345b200da47dbd608d641c3"
+            "MD5": "a961d8befb624813f795b9c2163e5455"
           }
         },
         {
@@ -889,9 +889,9 @@
           "name": "NoxProtect",
           "type": "FabricMod",
           "artifact": {
-            "size": 210672,
+            "size": 210734,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxprotect-0.1.0.jar",
-            "MD5": "153f93d084e69fb18bb226137b3c2ba7"
+            "MD5": "6f538eac32320467b50cc5eb073cc1cb"
           }
         },
         {
@@ -899,9 +899,9 @@
           "name": "NoxRaids",
           "type": "FabricMod",
           "artifact": {
-            "size": 351417,
+            "size": 355477,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxraids-0.1.0.jar",
-            "MD5": "ced4004fdb73eb994a7472e9b1a561be"
+            "MD5": "8ed1b8c810aeb54c6258e989cc3c3fd3"
           }
         },
         {
@@ -929,9 +929,9 @@
           "name": "NoxRTP",
           "type": "FabricMod",
           "artifact": {
-            "size": 6451,
+            "size": 7400,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrtp-0.1.0.jar",
-            "MD5": "b7e78578ccc3555a8698f60390c0d83d"
+            "MD5": "f267ca74ac44e2c777b975ce86b04c85"
           }
         },
         {

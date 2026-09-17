@@ -375,16 +375,6 @@
           }
         },
         {
-          "id": "com.illusivesoulworks:comforts:9.0.5+1.21.1@jar",
-          "name": "Comforts",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 914494,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/comforts-fabric-9.0.5%2B1.21.1.jar",
-            "MD5": "609e01638d5b6f2d864ee299e524395d"
-          }
-        },
-        {
           "id": "com.bawnorton.configurable.platform:configurable:3.5.2@jar",
           "name": "Configurable",
           "type": "FabricMod",

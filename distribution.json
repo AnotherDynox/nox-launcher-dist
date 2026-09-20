@@ -839,9 +839,9 @@
           "name": "NoxCare (Cliente)",
           "type": "FabricMod",
           "artifact": {
-            "size": 114483,
+            "size": 115492,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxcare-client-1.0.0.jar",
-            "MD5": "aceb5bcd7592b9c231f88c0404b3148b"
+            "MD5": "8c941b4e9404b064581381ec84f364c7"
           }
         },
         {
@@ -1049,9 +1049,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22394484,
+            "size": 22442389,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenav-0.1.0.jar",
-            "MD5": "39b46d2a5dace12da311f9463e043ab5"
+            "MD5": "902edadbd949625a0cff35da0ad73fa1"
           }
         },
         {

@@ -1329,7 +1329,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 9841,
+            "size": 9182,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/options.txt",
             "path": "options.txt"
           }
@@ -1354,17 +1354,6 @@
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/Chronicles_Part2_Minimap.zip",
             "MD5": "26de0c9520491510bc316f60e408d9b7",
             "path": "resourcepacks/Chronicles_Part2_Minimap.zip"
-          }
-        },
-        {
-          "id": "pokenavResourcePack36.zip",
-          "name": "pokenavResourcePack36.zip",
-          "type": "File",
-          "artifact": {
-            "size": 193347,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenavResourcePack36.zip",
-            "MD5": "ab7ac3e463086d4c0fa157938b55f24b",
-            "path": "resourcepacks/pokenavResourcePack36.zip"
           }
         }
       ]

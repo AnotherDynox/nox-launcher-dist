@@ -899,9 +899,9 @@
           "name": "NoxRanked",
           "type": "FabricMod",
           "artifact": {
-            "size": 2650930,
+            "size": 2652219,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxranked-0.1.0.jar",
-            "MD5": "fdec766905979f08ce9cc86ac7d5803f"
+            "MD5": "9417f80998f24dfce2a5a3dd883870d2"
           }
         },
         {

@@ -365,6 +365,16 @@
           }
         },
         {
+          "id": "com.necro.raid.dens:cobblemonraiddens:0.12.0+1.21.1@jar",
+          "name": "Cobblemon Raid Dens",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2714781,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/cobblemonraiddens-fabric-0.12.0%2B1.21.1.jar",
+            "MD5": "dcadc9217dab09ff8dc80a8ba9a3d796"
+          }
+        },
+        {
           "id": "generated.fabricmod:cobbleversebadges:1.3@jar",
           "name": "CobbleverseBadges",
           "type": "FabricMod",

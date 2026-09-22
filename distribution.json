@@ -889,9 +889,9 @@
           "name": "NoxRaids",
           "type": "FabricMod",
           "artifact": {
-            "size": 355477,
+            "size": 372733,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxraids-0.1.0.jar",
-            "MD5": "8ed1b8c810aeb54c6258e989cc3c3fd3"
+            "MD5": "60617b78a36d6ef1568cc8723bb10dbd"
           }
         },
         {

@@ -165,6 +165,16 @@
           }
         },
         {
+  "id": "com.noxclans:noxclans:0.1.0@jar",
+  "name": "NoxClans",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 211638,
+    "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxclans-0.1.0.jar",
+    "MD5": "b01762d5f7d755e3f7a048f8c96458d8"
+  }
+},
+        {
           "id": "generated.fabricmod:badoptimizations:2.4.1@jar",
           "name": "BadOptimizations",
           "type": "FabricMod",

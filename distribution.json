@@ -1035,16 +1035,6 @@
           }
         },
         {
-          "id": "nx.pingwheel:pingwheel:1.12.2@jar",
-          "name": "Ping Wheel",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 152703,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/Ping-Wheel-1.12.2-fabric-1.21.1.jar",
-            "MD5": "d0da2169a144c577794d38a03927f28e"
-          }
-        },
-        {
           "id": "com.blackgear:platform:1.3.3@jar",
           "name": "Platform",
           "type": "FabricMod",

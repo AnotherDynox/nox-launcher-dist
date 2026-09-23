@@ -879,9 +879,9 @@
           "name": "NoxGym",
           "type": "FabricMod",
           "artifact": {
-            "size": 76095725,
+            "size": 760970035,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxgym-0.1.0.jar",
-            "MD5": "a87177c8653703d30f58cdb00381c116"
+            "MD5": "5975591052ec0a2f50359261e0e5045c"
           }
         },
         {
@@ -929,9 +929,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 716922,
+            "size": 720085,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrogue-0.1.0.jar",
-            "MD5": "3a312c7237a3e13ac4feada32b4f5215"
+            "MD5": "14b517452ab0b53301c2d59c5bbaf76d"
           }
         },
         {
@@ -1069,9 +1069,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22470236,
+            "size": 22470586,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenav-0.1.0.jar",
-            "MD5": "ea995b635aec569b321f99f14c4ed534"
+            "MD5": "bb69d9ad198f3ee59ee5abc4f9141f41"
           }
         },
         {

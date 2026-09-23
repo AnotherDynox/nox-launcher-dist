@@ -1205,16 +1205,6 @@
           }
         },
         {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.21.1-1.5.1@jar",
-          "name": "Sound Physics Remastered",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 205671,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
-            "MD5": "ca55ac70824e229cd1175238b50608a6"
-          }
-        },
-        {
           "id": "gg.meza:soundsbegone:1.5.2@jar",
           "name": "SoundsBeGone",
           "type": "FabricMod",

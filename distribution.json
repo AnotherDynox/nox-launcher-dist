@@ -905,6 +905,16 @@
           }
         },
         {
+  "id": "generated.fabricmod:lootr:1.21.1-1.11.38.126@jar",
+  "name": "Lootr",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 1071683,
+    "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/lootr-fabric-1.21.1-1.11.38.126.jar",
+    "MD5": "3f60d9418e9146084d86946efe6a331a"
+  }
+},
+        {
           "id": "com.noxraids:noxraids:0.1.0@jar",
           "name": "NoxRaids",
           "type": "FabricMod",

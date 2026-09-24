@@ -865,15 +865,15 @@
           }
         },
         {
-          "id": "com.noxcrates:noxcrates:0.1.0@jar",
-          "name": "NoxCrates",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 32847,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxcrates-0.1.0.jar",
-            "MD5": "65e1fc7319ed8ac03a80f86d14214904"
-          }
-        },
+  "id": "com.noxcrates:noxcrates:0.1.0@jar",
+  "name": "NoxCrates",
+  "type": "FabricMod",
+  "artifact": {
+    "size": 32847,
+    "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxcrates-0.1.0.jar",
+    "MD5": "65e1fc7319ed8ac03a80f86d14214904"
+  }
+},
         {
           "id": "com.noxgym:noxgym:0.1.0@jar",
           "name": "NoxGym",

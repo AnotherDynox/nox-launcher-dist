@@ -929,9 +929,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 720085,
+            "size": 723556,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrogue-0.1.0.jar",
-            "MD5": "14b517452ab0b53301c2d59c5bbaf76d"
+            "MD5": "767d63e31f9ba6c9d34e076d187bff4b"
           }
         },
         {

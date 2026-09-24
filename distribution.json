@@ -865,6 +865,17 @@
           }
         },
         {
+  "id": "crate_types.json",
+  "name": "NoxCrates - crate_types.json",
+  "type": "File",
+  "artifact": {
+    "size": 412,
+    "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/crate_types.json",
+    "MD5": "7d18518d91211726ece62617dff85f36",
+    "path": "config/noxcrates/crate_types.json"
+  }
+},
+{
   "id": "com.noxcrates:noxcrates:0.1.0@jar",
   "name": "NoxCrates",
   "type": "FabricMod",

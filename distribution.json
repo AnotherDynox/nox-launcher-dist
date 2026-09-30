@@ -980,9 +980,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 143540022,
+            "size": 93188537,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxtcg-0.1.0.jar",
-            "MD5": "ce5ef9a2dac11d66e86a4477a0126a10"
+            "MD5": "df0d7d146282b843d53ee21cca7fba4c"
           }
         },
         {

@@ -980,9 +980,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 93510935,
+            "size": 93684367,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxtcg-0.1.0.jar",
-            "MD5": "3f2763faed8055c45e8ce5dfd47e6f1a"
+            "MD5": "19f97809eec5f8b8b1c511642aa2c417"
           }
         },
         {
@@ -1080,9 +1080,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22665433,
+            "size": 22669186,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenav-0.1.0.jar",
-            "MD5": "000ab97650437f5f3c4a4e4e2c454430"
+            "MD5": "2fbf937857e1fdb679009f1a31df8cb6"
           }
         },
         {

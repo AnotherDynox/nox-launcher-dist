@@ -1080,9 +1080,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22827130,
+            "size": 22829963,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenav-0.1.0.jar",
-            "MD5": "4df80f775f660c06ab8a100e335b8818"
+            "MD5": "24f9318c9937c17ecb5604bd4dcb343b"
           }
         },
         {

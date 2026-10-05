@@ -1081,9 +1081,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22835593,
+            "size": 22835678,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenav-0.1.0.jar",
-            "MD5": "ed8cf9019609bddc33cd67af31bac887"
+            "MD5": "7e1a10192cfb86003bdd75e34f4cee31"
           }
         },
         {
@@ -1361,9 +1361,9 @@
           "name": "ChroniclesPart1_Pokemon.zip",
           "type": "File",
           "artifact": {
-            "size": 26831885,
+            "size": 17732740,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/ChroniclesPart1_Pokemon.zip",
-            "MD5": "c865d17c6cd90ba23c9e4c98fb28f3f3",
+            "MD5": "ff01a36adb9318ca2b3edb63c7a3cf0e",
             "path": "resourcepacks/ChroniclesPart1_Pokemon.zip"
           }
         },
@@ -1372,9 +1372,9 @@
           "name": "Chronicles_Part2_Minimap.zip",
           "type": "File",
           "artifact": {
-            "size": 10227843,
+            "size": 496792,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/Chronicles_Part2_Minimap.zip",
-            "MD5": "26de0c9520491510bc316f60e408d9b7",
+            "MD5": "e5b5dc914760e642c31bd7456be41598",
             "path": "resourcepacks/Chronicles_Part2_Minimap.zip"
           }
         }

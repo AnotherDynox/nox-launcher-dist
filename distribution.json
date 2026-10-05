@@ -648,6 +648,7 @@
           "id": "mezz.jei:jei:19.21.2.313@jar",
           "name": "Just Enough Items",
           "type": "FabricMod",
+          "required": { "value": false, "def": false },
           "artifact": {
             "size": 1481367,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/jei-1.21.1-fabric-19.21.2.313.jar",

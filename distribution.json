@@ -910,9 +910,9 @@
           "name": "NoxProtect",
           "type": "FabricMod",
           "artifact": {
-            "size": 210734,
+            "size": 219864,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxprotect-0.1.0.jar",
-            "MD5": "6f538eac32320467b50cc5eb073cc1cb"
+            "MD5": "232ac195d5297c014184a5c9d6415466"
           }
         },
         {
@@ -980,9 +980,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 112869472,
+            "size": 113648219,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxtcg-0.1.0.jar",
-            "MD5": "ecee19e06af0d7a62a2dd3471255dee5"
+            "MD5": "99f3197639362a01a9841ab90e368b77"
           }
         },
         {

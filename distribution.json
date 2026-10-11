@@ -951,9 +951,9 @@
           "name": "NoxRogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 410659,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrogue-0.1.0.jar",
-            "MD5": "aa3964fb0aa09cdaf5962acf0445502c"
+            "size": 415770,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-11/noxrogue-0.1.0.jar",
+            "MD5": "d27223af3c3c06124569d4bb40fb5333"
           }
         },
         {
@@ -981,9 +981,9 @@
           "name": "NoxTCG",
           "type": "FabricMod",
           "artifact": {
-            "size": 112105221,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/mods-v1/noxtcg-0.1.0.jar",
-            "MD5": "453bfdad4d7dcb53b251dd550b3e1dca"
+            "size": 119341004,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-11/noxtcg-0.1.0.jar",
+            "MD5": "501fd93ac52490b638178ec52f9faf85"
           }
         },
         {
@@ -1081,9 +1081,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22082686,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/pokenav-0.1.0.jar",
-            "MD5": "70ad9b9336f1317cc662a0c86af861c1"
+            "size": 22111227,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-11/pokenav-0.1.0.jar",
+            "MD5": "7963c208982d6a72ba7f805fb7c5e468"
           }
         },
         {
@@ -1361,9 +1361,9 @@
           "name": "ChroniclesPart1_Pokemon.zip",
           "type": "File",
           "artifact": {
-            "size": 17732740,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/ChroniclesPart1_Pokemon.zip",
-            "MD5": "ff01a36adb9318ca2b3edb63c7a3cf0e",
+            "size": 18884626,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-11/ChroniclesPart1_Pokemon.zip",
+            "MD5": "8b249b10bc06c7cdd4d46be7ad508d71",
             "path": "resourcepacks/ChroniclesPart1_Pokemon.zip"
           }
         },

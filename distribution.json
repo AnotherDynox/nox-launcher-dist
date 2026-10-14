@@ -1081,9 +1081,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22285184,
+            "size": 22371636,
             "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-13c/pokenav-0.1.0.jar",
-            "MD5": "869db45706ef35cb039ee97eb18333d7"
+            "MD5": "df9926468166456713297624d8a16d99"
           }
         },
         {

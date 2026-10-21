@@ -860,9 +860,9 @@
           "name": "NoxCare (Cliente)",
           "type": "FabricMod",
           "artifact": {
-            "size": 114426,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxcare-client-1.0.0.jar",
-            "MD5": "60c0d72173afb13cf21b2b489c713fea"
+            "size": 116050,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-21f/noxcare-client-1.0.0.jar",
+            "MD5": "db003bdd8bd95c9ea65aaee4303af76f"
           }
         },
         {

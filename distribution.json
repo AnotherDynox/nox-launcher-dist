@@ -1081,9 +1081,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 22371636,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-13c/pokenav-0.1.0.jar",
-            "MD5": "df9926468166456713297624d8a16d99"
+            "size": 22460625,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-21/pokenav-0.1.0.jar",
+            "MD5": "698b2cf81b2449aca4bfdceb334bfa8e"
           }
         },
         {
@@ -1101,9 +1101,9 @@
           "name": "ChroniclesCosmetics",
           "type": "FabricMod",
           "artifact": {
-            "size": 41091,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/chroniclescosmetics-0.1.0.jar",
-            "MD5": "ee42fddbf2457895e01974216877c847"
+            "size": 44362,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-21/chroniclescosmetics-0.1.0.jar",
+            "MD5": "86459a08c089bae853d3acef2c33c960"
           }
         },
         {

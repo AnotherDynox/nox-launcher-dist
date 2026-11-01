@@ -901,9 +901,9 @@
           "name": "NoxPerf",
           "type": "FabricMod",
           "artifact": {
-            "size": 7352,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxperf-0.1.0.jar",
-            "MD5": "a961d8befb624813f795b9c2163e5455"
+            "size": 7319,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-11-01/noxperf-0.1.0.jar",
+            "MD5": "eb49e92476d3685efc6b1c62fceedf13"
           }
         },
         {
@@ -911,9 +911,9 @@
           "name": "NoxProtect",
           "type": "FabricMod",
           "artifact": {
-            "size": 219879,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxprotect-0.1.0.jar",
-            "MD5": "cb5312dd956d6943d8835308414e4d19"
+            "size": 228971,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-11-01/noxprotect-0.1.0.jar",
+            "MD5": "5b4113341091346533b37df7a693114a"
           }
         },
         {
@@ -931,9 +931,9 @@
           "name": "NoxRaids",
           "type": "FabricMod",
           "artifact": {
-            "size": 444079,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxraids-0.1.0.jar",
-            "MD5": "1c0cbb96690eedc753b3de6b92e0910d"
+            "size": 446434,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-11-01/noxraids-0.1.0.jar",
+            "MD5": "f821212d150251a38bf31efd8857af4a"
           }
         },
         {
@@ -961,9 +961,9 @@
           "name": "NoxRTP",
           "type": "FabricMod",
           "artifact": {
-            "size": 7400,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/assets-v1/noxrtp-0.1.0.jar",
-            "MD5": "f267ca74ac44e2c777b975ce86b04c85"
+            "size": 9231,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-11-01/noxrtp-0.1.0.jar",
+            "MD5": "394944927ba7b6d46f2f88cb1b3a8d58"
           }
         },
         {
@@ -1081,9 +1081,9 @@
           "name": "PokeNav",
           "type": "FabricMod",
           "artifact": {
-            "size": 25237702,
-            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-10-23/pokenav-0.1.0.jar",
-            "MD5": "6c3ad9e8fbfb86ed9cae1dda380832f7"
+            "size": 26147664,
+            "url": "https://github.com/AnotherDynox/nox-launcher-dist/releases/download/update-2026-11-01/pokenav-0.1.0.jar",
+            "MD5": "b932a6b65da079baa48ca6c31a4d81fe"
           }
         },
         {
